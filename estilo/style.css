@@ -28,9 +28,12 @@ body{
 #resultado {
     background-color: white;
     color: black;
-    padding: 20px;
-    font-size: 1.3em;
-    text-align: right;
+    width: 207px;
+    height: 30px;
+    margin: 5px;
+    padding: 5px;
+    font-size: 1.5em;
+    text-align:right;
     margin: 0 auto;
 }
 
